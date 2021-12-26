@@ -1,4 +1,9 @@
-REMIX EXAMPLE PROJECT
+# Create-BEP20-Token
+
+I am Crreating Binance Smart Chain Based BEP20 Token Using Solidity Language in Remix IDE. 
+
+Solidity Version ^0.6.2
+
 
 Remix example project is present when Remix loads very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
