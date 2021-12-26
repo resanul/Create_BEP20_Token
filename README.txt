@@ -1,11 +1,15 @@
 # Create-BEP20-Token
-
 I am Crreating Binance Smart Chain Based BEP20 Token Using Solidity Language in Remix IDE. 
+
+Token Name "labARToken" Symbol "LAB"
+Token Address: 0x164dc88d9d557d550a9b779e750103c930cbf95d
+Total Supply: 1000000;
+BSC Testnet: https://testnet.bscscan.com/token/0x164dc88d9d557d550a9b779e750103c930cbf95d?a=0xb944446c8687b98e732fac9829077a9e7e1aab68
+
 
 Solidity Version ^0.6.2
 
-
-Remix example project is present when Remix loads very first time or there are no files existing in the File Explorer. 
+Remix project is present when Remix loads very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
 
 1. 'contracts': Holds three contracts with different complexity level, denoted with number prefix in file name.
